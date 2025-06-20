@@ -6,4 +6,4 @@ Senior Frontend Developer with a designer's eye and a builder's mindset. Over th
 
 ### Connect
 
-[ellume](https://www.ellume.studio) · [Email](mailto:hello@ksch.io) · [LinkedIn](https://linkedin.com/in/kevin-scheffelmeier) · [X/Twitter](https://x.com/kschio) · [Xing](https://www.xing.com/profile/Kevin_Scheffelmeier)
+[Homepage](https://ksch.io) · [ellume](https://www.ellume.studio) · [Email](mailto:hello@ksch.io) · [LinkedIn](https://linkedin.com/in/kevin-scheffelmeier) · [X/Twitter](https://x.com/kschio) · [Xing](https://www.xing.com/profile/Kevin_Scheffelmeier)
