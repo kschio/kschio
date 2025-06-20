@@ -1,16 +1,9 @@
-### Hi 👋
+![image](https://github.com/user-attachments/assets/766df7a6-24d9-4de1-9d8f-fd40edb04009)
 
-<samp>I'm a freelance developer specializing in frontend and mobile development.<br>My work spans across websites, mobile and desktop apps, creative coding and design.<br><br>
-Contact me on <a href="https://ksch.io">ksch.io</a>, <a href="https://www.xing.com/profile/Kevin_Scheffelmeier">Xing</a> or <a href="https://www.linkedin.com/in/kevin-scheffelmeier">LinkedIn</a>
-</samp>
+### About
 
-## Services
-|  | Description |
-| --- | --- |
-| 🌍💻🔗 | Website & Web-Apps |
-| 💻🖥️💾 | Desktop Apps |
-| 📱 🍎 🤖 | iOS & Android Apps |
-| 🛠️ 👨‍🔬 👩‍💻 | Prototyping |
-| 🏗️ 📐 🔨 | Technical Architecture |
-| 🔍 📚 🔬 | Technical Research |
-| 🎨 💻 👨‍💻 | Creative Coding |
+Senior Frontend Developer with a designer's eye and a builder's mindset. Over the past 20 years, I've turned complex problems into intuitive interfaces. Driven by curiosity, creativity, and a love for tech that actually helps people.
+
+### Connect
+
+[ellume](https://www.ellume.studio) · [Email](mailto:hello@ksch.io) · [LinkedIn](https://linkedin.com/in/kevin-scheffelmeier) · [X/Twitter](https://x.com/kschio) · [Xing](https://www.xing.com/profile/Kevin_Scheffelmeier)
